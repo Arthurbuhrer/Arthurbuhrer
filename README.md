@@ -1,18 +1,12 @@
 ## ola a todos 👋 meu nome é Arthur buhrer 
 ## meu sonho é ser um guitarrista 🎸 profissional ou outra coisa que de dinheiro
-##gosto muito de rock 
+##gosto muito de rock
 
-<!--
-**Arthurbuhrer/Arthurbuhrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 eu estou atualmente trabalhando em: casa cuidando dos bichos
+- 🌱 eu estou atualmente estudando: rock,ingles e as outras matérias 
+- 👯 eu estou na procura para fazer colaboração: com alguma banda menor 
+- 🤔 eu estou procurando ajuda com: rock ou algumas musicas
+- 💬 me pergunte sobre: rock,guitarra
+- 📫 como chegar até mim :perto do bar do japonês inhaiva 
+- 😄 Pronomes: ele
+- ⚡ fato engraçado : gosto de música MPB 
