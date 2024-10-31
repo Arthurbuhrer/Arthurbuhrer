@@ -1,4 +1,5 @@
 ## ola a todos 👋 meu nome é Arthur buhrer 
+## meu sonho é ser um guitarrista 🎸 profissional ou outra coisa que de dinheiro
 
 <!--
 **Arthurbuhrer/Arthurbuhrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
